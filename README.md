@@ -1,9 +1,12 @@
 # About the script
 This script downloads a portable java installation and a minecraft launcher called SKlauncher, which allows you to login offline and play minecraft for free. It also allows you to have multiple installations and easily mod your game.
 ## Usage 
-1. Download the script by clicking `Downloader_script.ps1` , clicking on `raw` and then using `crtl + s` . Put it wherever you want to download Minecraft. If you're unsure put it in your Documents folder.
+1. Download the script by clicking `Downloader_script.ps1` , clicking on the download button and then using. Put it wherever you want to download Minecraft. If you're unsure put it in your Documents folder.
 2. Right click the file and click `Run with powershell` .
+![](img1.png)
+![](img2.png)
+![](ing3.png)
 The script will now start running, you should see a blue window and a bunch of numbers showing up. 
 If you don't see that click the window with your cursor, click `crtl + c` , delete the `minecraft` folder in the directory you put the script and then run the script again.
-3. When the numbers go away, wait 10 seconds, and then close the blue window. 
-4. In the minecraft folder you will find a file called `starter.bat` . Put it on your desktop for convenience and double click it to start. 
+4. When the numbers go away, wait 10 seconds, and then close the blue window. 
+5. In the minecraft folder you will find a file called `starter.bat` . Put it on your desktop for convenience and double click it to start. 
