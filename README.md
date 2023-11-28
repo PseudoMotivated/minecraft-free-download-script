@@ -6,3 +6,4 @@ This script downloads a portable java installation and a minecraft launcher call
 The script will now start running, you should see a blue window and a bunch of numbers showing up. 
 If you don't see that click the window with your cursor, click `crtl + c` , delete the `minecraft` folder in the directory you put the script and then run the script again.
 3. When the numbers go away, wait 10 seconds, and then close the blue window. 
+4. In the minecraft folder you will find a file called `starter.bat` . Put it on your desktop for convenience and double click it to start. 
