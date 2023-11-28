@@ -16,6 +16,11 @@ This script downloads a portable java installation and a minecraft launcher call
 
 
 ![](img3.png)
+
+
+
+
+
 The script will now start running, you should see a blue window and a bunch of numbers showing up. 
 If you don't see that click the window with your cursor, click `crtl + c` , delete the `minecraft` folder in the directory you put the script and then run the script again.
 4. When the numbers go away, wait 10 seconds, and then close the blue window. 
