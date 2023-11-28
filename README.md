@@ -1,9 +1,9 @@
 # About the script
 This script downloads a portable java installation and a minecraft launcher called SKlauncher, which allows you to login offline and play minecraft for free. It also allows you to have multiple installations and easily mod your game.
 ## Usage 
-1. Download the script by clicking `Downloader_script.ps1` , clicking on the download button and then using. Put it wherever you want to download Minecraft. If you're unsure put it in your Documents folder.
+1. Download the script by clicking `Downloader_script.ps1` , clicking on the download button and then using. Put it wherever you want to download Minecraft. If you're unsure put it in your Documents folder. If your browser gives you a warning ignore it, the script is safe and you can look through it and the included files.
 ![](img1.png)
-
+.. 
 
 ![](img2.png)
 
