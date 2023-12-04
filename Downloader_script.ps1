@@ -1,7 +1,7 @@
 # Set the folder name and file URL
 $folderName = "minecraft"
 $fileUrl = "https://voice.tamiz.dev/u/AXBrLh.zip"
-$mcUrl = "https://skmedix.pl/binaries/_/SKlauncher-3.2.jar"
+$mcUrl = "https://skmedix.pl/binaries/_/SKlauncher-3.2.2.jar"
 # Create the folder
 New-Item -ItemType Directory -Path $folderName
 
