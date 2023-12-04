@@ -7,7 +7,7 @@ New-Item -ItemType Directory -Path $folderName
 
 # Download the files
 $filePath = "$folderName\file.zip"
-$mcPath = "$folderName\SKlauncher-3.2.jar"
+$mcPath = "$folderName\SKlauncher-3.2.2.jar"
 
 Invoke-WebRequest -Uri $fileUrl -OutFile $filePath
 Invoke-WebRequest -Uri $mcUrl -OutFile $mcPath
