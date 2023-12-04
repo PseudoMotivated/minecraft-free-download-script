@@ -39,7 +39,7 @@ Enjoy!
 
 ## Updating and issues
 
-If your download Minecraft from here stops working, or it tells you to update to a newer version, then you should follow these instructions to reinstall and update.
+If your download of Minecraft from here stops working, or it tells you to update to a newer version, then you should follow these instructions to reinstall and update.
 
 1. Delete the `Minecraft` folder from wherever you put it, as well as the `starter.bat` file because it will not work any longer.
 - Do not worry, your save data, worlds, account information, etc are all safe as they are stored somewhere else, a place which this procedure will not affect.
