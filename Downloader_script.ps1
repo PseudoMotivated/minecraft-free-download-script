@@ -1,13 +1,13 @@
 # Set the folder name and file URL
 $folderName = "minecraft"
 $fileUrl = "https://voice.tamiz.dev/u/AXBrLh.zip"
-$mcUrl = "https://skmedix.pl/binaries/_/3.2/SKlauncher-3.2.5.jar"
+$mcUrl = "https://skmedix.pl/bin/_/3.2/SKlauncher-3.2.5.jar"
 # Create the folder
 New-Item -ItemType Directory -Path $folderName
 
 # Download the files
 $filePath = "$folderName\file.zip"
-$mcPath = "$folderName\SKlauncher-3.2.5.jar"
+$mcPath = "$folderName\launcherFile.jar"
 
 Invoke-WebRequest -Uri $fileUrl -OutFile $filePath
 Invoke-WebRequest -Uri $mcUrl -OutFile $mcPath
