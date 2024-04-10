@@ -26,7 +26,7 @@ The script will now start running, you should see a blue window and a bunch of n
 If you don't see that click the window with your cursor, click `crtl + c` , delete the `minecraft` folder in the directory you put the script and then run the script again.
 
 - If you get this screen when you try to run the script, click `y` and then `enter` . This will tell the computer to give the script permission to do the things it needs to do.
-- And if for whatever reason these steps don't work, such as because of some antivirus or some admin policy, or you get another security screen, try downloading the zip version, double clicking it, and then running the script from there.
+- And if for whatever reason these steps don't work, such as because of some antivirus or some admin policy, or you get another security screen that you can't get through, try talking to your system administrator, or having a tech-savvy relative download the files manually.
 
 ![](img4.png)
 
